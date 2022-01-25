@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery;
 
 import edu.kis.vh.nursery.defaultCountingOutRhymer;
-import edu.kis.vh.nursery.HanoiRhymer;
+import edu.kis.vh.nursery.hanoiRhymer;
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
@@ -28,7 +28,7 @@ class RhymersDemo {
 		}
 		
 		System.out.println("total rejected is "
-				+ ((HanoiRhymer) rhymers[3]).reportRejected());
+				+ ((hanoiRhymer) rhymers[3]).reportRejected());
 		
 	}
 	
