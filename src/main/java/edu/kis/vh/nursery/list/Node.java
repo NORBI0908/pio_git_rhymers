@@ -1,5 +1,12 @@
 package edu.kis.vh.nursery.list;
 
+/**
+ * @author nwilicki
+ *	Klasa Node z metodami:
+ *	- getValue - getter
+ *	- setValue - setter
+ *	- Node - konstruktor
+ */
 public class Node {
 
 	private int value;
