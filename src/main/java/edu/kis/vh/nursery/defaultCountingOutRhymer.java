@@ -4,8 +4,6 @@ public class defaultCountingOutRhymer {
 
 	private int[] numbers = new int[12];
 
-	private int total = -1;
-
 	public int getTotal() {
 		return total;
 	}
