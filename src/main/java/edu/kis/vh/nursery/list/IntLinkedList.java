@@ -41,8 +41,5 @@ public class IntLinkedList {
 		return i;
 	}
 
-	void setI(int i) {
-		this.i = i;
-	}
 
 }
