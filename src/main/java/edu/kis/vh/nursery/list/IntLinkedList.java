@@ -1,5 +1,15 @@
 package edu.kis.vh.nursery.list;
 
+/**
+ * @author nwilicki
+ *	Klasa IntLinkedList z metodami:
+ *	- push
+ *	- isEmpty
+ *	- isFull
+ *	- top
+ *	- pop
+ *	- getI
+ */
 public class IntLinkedList {
 
 	Node last;

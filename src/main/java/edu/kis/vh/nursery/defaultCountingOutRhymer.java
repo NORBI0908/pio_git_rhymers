@@ -1,5 +1,15 @@
 package edu.kis.vh.nursery;
 
+/**
+ * @author nwilicki
+ *	Klasa defaultCountingOutRhymer z metodami:
+ *	- countIn
+ *	- callCheck
+ *	- isFull
+ *	- peekaboo
+ *	- countOut
+ *	- getTotal
+ */
 public class defaultCountingOutRhymer {
 
 	private static final int TOTAL_NUMBERS = 12;

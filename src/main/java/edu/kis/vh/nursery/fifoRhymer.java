@@ -1,5 +1,9 @@
 package edu.kis.vh.nursery;
 
+/**
+ * @author nwilicki
+ *	klasa fifoRhymer z metodą publiczną countOut
+ */
 public class fifoRhymer extends defaultCountingOutRhymer {
 
 	public final defaultCountingOutRhymer temp = new defaultCountingOutRhymer();

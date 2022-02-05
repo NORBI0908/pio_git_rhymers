@@ -1,5 +1,9 @@
 package edu.kis.vh.nursery;
 
+/**
+ * @author nwilicki
+ *	klasa hanoiRhymer z metodą publiczną countIn
+ */
 public class hanoiRhymer extends defaultCountingOutRhymer {
 
 private int totalRejected = 0;
